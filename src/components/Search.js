@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import Input from '@material-ui/core/Input'
+import Input from '@material-ui/core/Input';
 
 class Search extends Component {
     constructor (props) {
