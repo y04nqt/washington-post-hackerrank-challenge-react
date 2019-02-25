@@ -10,7 +10,7 @@ class Search extends Component {
     }
     
     updateValue () {
-        
+        this.s
     }
     
     render () {
