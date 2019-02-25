@@ -10,7 +10,7 @@ class Search extends Component {
     }
     
     updateValue (event) {
-        this.setState{value: event.target.value}
+        this.setState
     }
     
     componentDidUpdate(){
