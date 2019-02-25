@@ -13,7 +13,8 @@ class Search extends Component {
         this.setState{value: event.target.value}
     }
     
-
+    compo
+    
     render () {
         return (
             <Input
