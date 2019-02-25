@@ -16,7 +16,7 @@ class Search extends Component {
     componentDidUpdate(){
         console.log(this.state.value)
     }
-    
+
     render () {
         return (
             <Input
