@@ -9,7 +9,7 @@ class Search extends Component {
         };
     }
     
-    updateValue (e) {
+    updateValue (event) {
         this.setState{}
     }
     
