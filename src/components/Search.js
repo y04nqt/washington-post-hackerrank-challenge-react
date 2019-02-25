@@ -13,7 +13,9 @@ class Search extends Component {
         this.setState{value: event.target.value}
     }
     
-    componentDidUpdate()
+    componentDidUpdate(){
+        conso
+    }
     
     render () {
         return (
