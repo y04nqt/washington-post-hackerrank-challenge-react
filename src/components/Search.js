@@ -10,7 +10,7 @@ class Search extends Component {
     }
     
     updateValue (event) {
-        this.setState
+        this.setState({value: event.target.value})
     }
     
     componentDidUpdate(){
@@ -23,7 +23,7 @@ class Search extends Component {
                 className="search-box"
                 placeholder="Enter Country Name"
                 value={this.state.value}
-                onChange={event => this.updateValue(event}
+                onChange={event => this.updateValue(event)}
             />
         );
     }
