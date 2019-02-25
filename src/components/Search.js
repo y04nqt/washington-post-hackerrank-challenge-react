@@ -7,7 +7,7 @@ class Search extends Component {
         this.state = {
             value: ''
         }
-        
+
     }
     render() {
         return (
