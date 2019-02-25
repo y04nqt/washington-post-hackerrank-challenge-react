@@ -3,7 +3,7 @@ import CountryList from './components/CountryList';
 import Search from './components/Search';
 
 class App extends Component {
-  render() {
+  render () {
     return (
       <div className="container">
         <center><h1>Country Filter</h1></center>
