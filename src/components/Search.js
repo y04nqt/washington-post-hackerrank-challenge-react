@@ -13,7 +13,7 @@ class Search extends Component {
             <Input
                 className="search-box"
                 placeholder="Enter Country Name"
-                value={this.st
+                value={this.state.value
             />
         );
     }
