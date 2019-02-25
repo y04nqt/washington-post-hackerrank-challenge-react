@@ -14,7 +14,7 @@ class Search extends Component {
     }
     
     componentDidUpdate(){
-        console.log()
+        console.log(this.state.val)
     }
     
     render () {
