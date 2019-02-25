@@ -6,7 +6,7 @@ class Search extends Component {
         super(props);
         this.state = {
             value: ''
-        }
+        };
     }
     render() {
         return (
