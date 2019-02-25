@@ -8,6 +8,7 @@ class Search extends Component {
             value: ''
         };
     }
+
     render () {
         return (
             <Input
