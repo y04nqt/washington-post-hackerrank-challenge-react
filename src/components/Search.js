@@ -10,7 +10,7 @@ class Search extends Component {
     }
     
     updateValue (event) {
-        this.setState{v}
+        this.setState{value: }
     }
     
     render () {
