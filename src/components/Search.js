@@ -19,6 +19,7 @@ class Search extends Component {
                 className="search-box"
                 placeholder="Enter Country Name"
                 value={this.state.value}
+
             />
         );
     }
